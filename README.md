@@ -60,4 +60,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Note
 
+Pastikan untuk menjalankan server backend terlebih dahulu
+
 Pastikan server berjalan di Port 8081
