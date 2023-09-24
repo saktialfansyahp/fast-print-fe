@@ -1,4 +1,4 @@
-# fast-print
+# Fast-Print-FE
 
 ## Project setup
 
